@@ -1,4 +1,4 @@
-# Semantic_Segmentaion_of_Gaofen2_Dataset
+# Semantic_Segmentation_of_Gaofen2_Dataset
 The dataset can be downloaded from  https://drive.google.com/file/d/1JJL5g_1-ndCBkvTJfvCC-U6FoNQG6PiI/view?usp=drive_link
 
 
