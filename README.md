@@ -15,6 +15,7 @@ Backbones:VGG-16, ResNet101,ResNeXt101, and EfficientNet-B3
 
 Evaluation Matrix: IoU, Precision, Recall, Overall accuracy, and F1 score
 
+📥 [Download Model Weights](https://drive.google.com/file/d/1Ib2k__x3iBwN5azXsLLVuUvxNxVFlihj/view?usp=sharing)
 
 Contributions / Queries
 
